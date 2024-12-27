@@ -28,12 +28,6 @@ Rabbit Java Game is an interactive 2D game developed using Java and Swing. The o
 - **Graphics**: Java AWT and custom textures
 
 ---
-
-## 📂 Project Structure
-- `src/Assets`: Contains all the textures and sound files.
-- `src/Game.java`: Main entry point for the game.
-- `src/GameMechanics`: Handles collision detection, score updates, and level difficulty.
-
 ## 📦 Installation
 1. Clone the repository
 2. Compile and run the game:

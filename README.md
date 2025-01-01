@@ -23,9 +23,16 @@ Rabbit Java Game is an interactive 2D game developed using Java and Swing. The o
 ---
 
 ## 🛠️ Technologies Used
-- **Language**: Java
-- **Graphics**: OpenGl and custom textures
-
+- **Java**: Main programming language.
+- **JOGL (Java OpenGL)**: For 2D/3D rendering.
+- **GLUT & GLU**: For OpenGL utilities and rendering support.
+- **GLCanvas**: OpenGL rendering in Java.
+- **Java Sound API**: For background music and sound effects.
+- **TextureReader**: Custom class for texture management.
+- **Custom Game State Management**: `GameState` & `PlayState` for screen handling.
+- **CollisionManager**: Custom collision detection.
+- **Mouse/Keyboard Input**: Handled via `MouseEvent` and `KeyEvent`.
+- **AWT**: For image manipulation and graphics.
 ---
 ## 📦 Installation
 1. Clone the repository
